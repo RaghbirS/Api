@@ -1,5 +1,9 @@
 {
-    "users":[],
-    "saree":[],
-    "lehenga":[]
+    "posts": [
+
+    ],
+    "comments": [
+
+    ],
+    "profile": {}
 }
