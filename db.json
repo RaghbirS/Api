@@ -1,4 +1,5 @@
 {
+    "users":[],
     "homeLiving": [
         {
             "add_border": "(product_sku_list = (typeof(product_sku_list) != 'undefined') ? product_sku_list : []).push('3882557');",
